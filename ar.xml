@@ -1,10 +1,20 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="26 TV">
-    <display-name lang="es">AR - 26 TV</display-name>
-    <icon src="https://cdn.mitvstatic.com/channels/ar_26-tv_l.png" />
-    <url>26TV.ar</url>
-  </channel>
+  <channel id="AR - A24">
+  <display-name lang="es">AR - A24</display-name>
+  <icon src="https://cdn.mitvstatic.com/channels/ar_america-24_l.png" />
+  <url>http://www.mi.tv</url>
+</channel>
+
+<programme start="20250728090000 +0000" stop="20250728100000 +0000" channel="AR - A24">
+  <title lang="es">Noticiero Central</title>
+  <desc lang="es">Resumen de noticias nacionales e internacionales.</desc>
+</programme>
+
+<programme start="20250728100000 +0000" stop="20250728103000 +0000" channel="AR - A24">
+  <title lang="es">Clima en Vivo</title>
+  <desc lang="es">Informe meteorológico actualizado.</desc>
+</programme>
   <channel id="La Nación">
     <display-name lang="es">La Nación</display-name>
     <url>http://www.cablevisionfibertel.com.ar</url>
