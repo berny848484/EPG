@@ -3,7 +3,7 @@
   <channel id="26 TV">
     <display-name lang="es">AR - 26 TV</display-name>
     <icon src="https://cdn.mitvstatic.com/channels/ar_26-tv_l.png" />
-    <url>26 TV.ar</url>
+    <url>26TV.ar</url>
   </channel>
   <channel id="La Nación">
     <display-name lang="es">La Nación</display-name>
