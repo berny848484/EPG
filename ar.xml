@@ -46,7 +46,7 @@
   </channel>
   <channel id="26 TV">
     <display-name lang="es">26 TV</display-name>
-    <url>http://www.cablevisionfibertel.com.ar</url>
+    <url>https://mi.tv/ar/programacion</url>
   </channel>
   <channel id="La Nación">
     <display-name lang="es">La Nación</display-name>
